@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-install python3;
-install python-pip
+sudo apt install python3;
+sudo apt install python3-pip;
+sudo apt install python3-venv
